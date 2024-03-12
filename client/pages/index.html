@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WonderX Movies - Home</title>
+    <link rel="stylesheet" href="../styles/index.css">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <!-- Logo Image -->
+                <a href="index.html"><img src="../assets/logo.png" alt="WonderX"></a>
+            </div>
+            <nav>
+                <!-- Navigation Links -->
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="privatearea.html">My Movies</a></li>
+                    <li><a href="logout.html">Logout</a></li>
+                </ul>
+            </nav>
+            <div class="user-info">
+
+                <span>Welcome, User!</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="movie-list" class="container">
+            <h1>Explore Movies</h1>
+
+        </section>
+
+        <section class="container add-movie-form">
+            <h2>Add New Movie</h2>
+            <form id="addMovieForm">
+                <div class="form-group">
+                    <label for="movieName">Movie Name:</label>
+                    <input type="text" id="movieName" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="screeningDate">Screening Date:</label>
+                    <input type="date" id="screeningDate" name="screeningDate" required>
+                </div>
+                <div class="form-group">
+                    <label for="genre">Genre:</label>
+                    <input type="text" id="genre" name="genre" required>
+                </div>
+                <div class="form-group">
+                    <label for="length">Length (minutes):</label>
+                    <input type="number" id="length" name="length" required>
+                </div>
+                <div class="form-group">
+                    <label for="movieImage">Movie Image URL:</label>
+                    <input type="text" id="movieImage" name="image">
+                </div>
+                <button type="submit">Add Movie</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 WonderX. All rights reserved.</p>
+            <p>Designed and Developed by Sami Kudsi.</p>
+        </div>
+    </footer>
+
+    <script src="../scripts/script.js"></script>
+</body>
+
+</html>

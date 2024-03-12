@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WonderX Movies - My Movies</title>
+    <link rel="stylesheet" href="../styles/index.css"> <!-- Use the same CSS as index.html -->
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="index.html"><img src="../assets/logo.png" alt="WonderX"></a>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="privatearea.html">My Movies</a></li>
+                    <li><a href="#" onclick="handleLogout(event)">Logout</a></li>
+                </ul>
+            </nav>
+            <div class="user-info">
+                <span>Welcome, User!</span>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section id="my-movies" class="container">
+            <h1>My Movies</h1>
+
+        </section>
+
+        <section id="edit-movie-form-section" class="container" style="display:none;">
+            <h2>Edit Movie</h2>
+            <form id="editMovieForm">
+                <input type="text" id="movieName" placeholder="Movie Name" required>
+                <input type="date" id="screeningDate" placeholder="Screening Date" required>
+                <input type="text" id="genre" placeholder="Genre" required>
+                <input type="number" id="length" placeholder="Length (minutes)" required>
+                <input type="text" id="movieImage" placeholder="Image URL">
+                <button type="submit">Update Movie</button>
+            </form>
+        </section>
+
+        <footer>
+            <div class="container">
+                <p>&copy; 2024 WonderX. All rights reserved.</p>
+                <p>Designed and Developed by Sami Kudsi.</p>
+            </div>
+        </footer>
+
+        <script src="../scripts/privateArea.js"></script>
+</body>
+
+</html>

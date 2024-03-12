@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Inception",
+      "screeningDate": "2010-07-16",
+      "genre": "Sci-Fi",
+      "length": 148,
+      "image": "https://static.posters.cz/image/1300/art-photo/inception-in-dream-i153513.jpg",
+      "createdBy": "NOTE: YOU NEED TO ADD YOUR USERID TO THIS FIELD"
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "screeningDate": "1994-10-14",
+      "genre": "Drama",
+      "length": 142,
+      "image": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "The Godfather",
+      "screeningDate": "1972-03-24",
+      "genre": "Crime",
+      "length": 175,
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2023/05/the-godfather-poster.jpeg",
+      "createdBy": ""
+    },
+    {
+      "name": "The Dark Knight",
+      "screeningDate": "2008-07-18",
+      "genre": "Action",
+      "length": 152,
+      "image": "https://m.media-amazon.com/images/I/91KkWf50SoL._AC_UF894,1000_QL80_.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "12 Angry Men",
+      "screeningDate": "1957-04-10",
+      "genre": "Drama",
+      "length": 96,
+      "image": "https://musicart.xboxlive.com/7/b7805100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+      "createdBy": ""
+    },
+    {
+      "name": "Schindler's List",
+      "screeningDate": "1994-02-04",
+      "genre": "History",
+      "length": 195,
+      "image": "https://m.media-amazon.com/images/I/81+H4lZVw+L._AC_UF894,1000_QL80_.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "Pulp Fiction",
+      "screeningDate": "1994-10-14",
+      "genre": "Crime",
+      "length": 154,
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/dbb9aff6fc5fcd726e2c19c07f165d40aa7716d1dee8974aae8a0dad9128d392.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "Fight Club",
+      "screeningDate": "1999-10-15",
+      "genre": "Drama",
+      "length": 139,
+      "image": "https://www.cineglobe.de/wp-content/uploads/1999/11/23b757ce995171ae05ba7449c67a47dc.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "Forrest Gump",
+      "screeningDate": "1994-07-06",
+      "genre": "Drama",
+      "length": 142,
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p15829_v_v13_aa.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "Inglourious Basterds",
+      "screeningDate": "2009-08-21",
+      "genre": "Adventure",
+      "length": 153,
+      "image": "https://m.media-amazon.com/images/I/71LKzze-ElL._AC_UF894,1000_QL80_.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "The Matrix",
+      "screeningDate": "1999-03-31",
+      "genre": "Sci-Fi",
+      "length": 136,
+      "image": "https://static.wikia.nocookie.net/matrix/images/5/56/The_Matrix_digital_release_cover.jpg/revision/latest?cb=20210908111245",
+      "createdBy": ""
+    },
+    {
+      "name": "Goodfellas",
+      "screeningDate": "1990-09-19",
+      "genre": "Crime",
+      "length": 146,
+      "image": "https://img.promipool.de/www-promipool-de/image/upload/c_fit,h_3000,w_1600/q_auto:eco/f_jpg/goodfellas_ggan4rsiap",
+      "createdBy": ""
+    },
+    {
+      "name": "The Silence of the Lambs",
+      "screeningDate": "1991-02-14",
+      "genre": "Thriller",
+      "length": 118,
+      "image": "https://m.media-amazon.com/images/I/51SHYSFNP2L._AC_UF894,1000_QL80_.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "Interstellar",
+      "screeningDate": "2014-11-07",
+      "genre": "Sci-Fi",
+      "length": 169,
+      "image": "https://m.media-amazon.com/images/I/A1JVqNMI7UL._AC_UF894,1000_QL80_.jpg",
+      "createdBy": ""
+    },
+    {
+      "name": "Gladiator",
+      "screeningDate": "2000-05-05",
+      "genre": "Action",
+      "length": 155,
+      "image": "https://www.actionfiguren-shop.com/out/pictures/master/product/1/hh18016-01.jpg",
+      "createdBy": ""
+    }
+  ]
+  
